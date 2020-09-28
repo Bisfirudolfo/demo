@@ -229,6 +229,29 @@
             "catchPhrase": "Centralized empowering task-force",
             "bs": "target end-to-end models"
         }
+    },
+    {
+        "id": 11,
+        "name": "Papayinna del Mango",
+        "username": "Pap.Mango",
+        "email": "papa.mango@uvas.com",
+        "address": {
+            "street": "De la papaya avenue",
+            "suite": "Suite 500",
+            "city": "Lebsack",
+            "zipcode": "31428-2261",
+            "geo": {
+                "lat": "-38.2386",
+                "lng": "57.2232"
+            }
+        },
+        "phone": "024-648-5555",
+        "website": "uvas.net",
+        "company": {
+            "name": "Papayar LLC",
+            "catchPhrase": "Centralized empowering task-force",
+            "bs": "target end-to-end models"
+        }
     }
   ],
   "profile": {
