@@ -256,5 +256,32 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  {
+        "id": 12,
+        "name": "Papayinna del Mango NEW",
+        "username": "Pap.Mango NEW",
+        "email": "papa.mango@uvas.com NEW",
+        "address": {
+            "street": "De la papaya avenue NEW",
+            "suite": "Suite 500 NEW",
+            "city": "Lebsack NEW",
+            "zipcode": "31428-2261 NEW",
+            "geo": {
+                "lat": "-38.2386",
+                "lng": "57.2232"
+            }
+        },
+        "phone": "024-648-5555 NEW",
+        "website": "uvas.net NEW",
+        "company": {
+            "name": "Papayar LLCNEW ",
+            "catchPhrase": "Centralized empowering task-force",
+            "bs": "target end-to-end models"
+        }
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
