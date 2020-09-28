@@ -49,7 +49,7 @@
     {
         "id": 3,
         "name": "Clementine Bauch",
-        "username": "Samantha",
+        "username": "Samanthuna",
         "email": "Nathan@yesenia.net",
         "address": {
             "street": "Douglas Extension",
@@ -75,7 +75,7 @@
         "username": "Karianne",
         "email": "Julianne.OConner@kory.org",
         "address": {
-            "street": "Hoeger Mall",
+            "street": "Hoeger Mall Change",
             "suite": "Apt. 692",
             "city": "South Elvis",
             "zipcode": "53919-4257",
@@ -107,7 +107,7 @@
                 "lng": "62.5342"
             }
         },
-        "phone": "(254)954-1289",
+        "phone": "(254)954-1289-8888",
         "website": "demarco.info",
         "company": {
             "name": "Keebler LLC",
